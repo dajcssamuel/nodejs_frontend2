@@ -1,0 +1,22 @@
+img{
+    width: 40px;
+}
+.navb{
+    background-color: rgb(248, 1, 1);
+    width: 1000px;
+}
+body{
+    background-color: rgb(241, 117, 117);
+}
+.nav-link{
+    text-align: right;
+}
+
+.tablazat{
+    margin-left: 50px;
+    margin-right: 160px;
+    background-color: red;
+    padding: 30px;
+    
+    text-align: center;
+}
